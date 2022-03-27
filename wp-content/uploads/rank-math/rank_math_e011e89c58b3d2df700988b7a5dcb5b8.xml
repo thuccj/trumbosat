@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//trumbosat.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://trumbosat.com/post-sitemap.xml</loc>
+		<lastmod>2022-03-26T21:44:28+07:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://trumbosat.com/page-sitemap.xml</loc>
+		<lastmod>2022-03-25T14:28:11+07:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://trumbosat.com/category-sitemap.xml</loc>
+		<lastmod>2022-03-26T21:44:28+07:00</lastmod>
+	</sitemap>
+</sitemapindex>
